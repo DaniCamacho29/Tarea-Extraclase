@@ -35,7 +35,7 @@ public class Extraclase_Daniel2 {
              dato2 = scanner.nextInt();
              resultado = dato1/dato2;
             
-             System.out.println("La division resultante es: " + resultado);
+             System.out.println("La division entera resultante es: " + resultado);
             
         }catch(InputMismatchException e){
             System.out.println("Los Datos ingresados deben ser numeros enteros"); 
