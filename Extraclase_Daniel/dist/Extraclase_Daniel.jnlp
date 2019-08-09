@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Extraclase_Daniel.jnlp">
+  <information>
+    <title>Extraclase_Daniel</title>
+    <vendor>Kenneth</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Extraclase_Daniel.jar" size="5580" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="extraclase_daniel.Extraclase_Daniel"  name="Extraclase_Daniel" />
+  <update check="always"/>
+</jnlp>
